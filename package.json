@@ -1,7 +1,6 @@
 {
   "name": "applets-ui",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
   "scripts": {
     "serve": "npm run dev:h5",
     "build": "npm run build:h5",
@@ -111,5 +110,16 @@
   },
   "uni-app": {
     "scripts": {}
-  }
+  },
+  "description": "小程序快速开发",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:byzhyt/applets-ui.git"
+  },
+  "keywords": [
+    "小程序"
+  ],
+  "author": "songren",
+  "license": "ISC"
 }
